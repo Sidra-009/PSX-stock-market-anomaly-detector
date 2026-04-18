@@ -1,7 +1,5 @@
 """
-PSX Stock Alerts - Simple Version
-Beautiful Dark UI | Easy to understand
-Run: streamlit run app_simple.py
+PSX Stock Alerts 
 """
 
 import streamlit as st
