@@ -13,7 +13,11 @@
 ## 📸 Screenshots
 
 | Stock Details | Alerts & Warnings | Next Week Prediction |
-|---|---|---|
+<img width="1568" height="692" alt="image" src="https://github.com/user-attachments/assets/cb61ac79-bee6-4764-a061-9bf04052ff48" />
+<img width="1568" height="757" alt="image" src="https://github.com/user-attachments/assets/8a47591b-7b13-42bf-90c0-abc4db06ca7d" />
+<img width="1568" height="704" alt="image" src="https://github.com/user-attachments/assets/53e9f4f8-1233-4b91-a498-f51b688a3ca6" />
+
+
 | Live price, RSI status, price chart | High/Medium/Low priority alerts | AI 7-day forecast chart |
 
 ---
