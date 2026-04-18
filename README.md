@@ -163,7 +163,6 @@ Deployed on Streamlit Cloud — free and accessible worldwide.
 
 🔗 **[Click here to open the app](https://psx-stock-market-anomaly-detector.streamlit.app/)**
 
-*(Replace this link with your actual Streamlit Cloud URL after deploying)*
 
 ---
 
